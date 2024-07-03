@@ -1,5 +1,5 @@
 <h1>Classic-Pool-Game</h1>
-<small>© Chen Shmilovich - 2018.</small>
+<small>© Tanette - 2020.</small>
 <br>
 
 <hr>
@@ -42,5 +42,3 @@ https://henshmi.github.io/Classic-Pool-Game/
   Bossa Antigua Kevin MacLeod (incompetech.com)<br>
   Licensed under Creative Commons: By Attribution 3.0 License<br>
   http://creativecommons.org/licenses/by/3.0/
-
-
